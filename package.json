@@ -1,0 +1,26 @@
+{
+  "name": "ymir-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "16.18.0"
+  },
+  "author": "Levi Ackerman",
+  "license": "ISC",
+  "dependencies": {
+    "canvacord": "^5.4.8",
+    "canvas": "^2.10.1",
+    "discord-blackjack": "^4.0.0",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.9.0",
+    "djs-games": "^2.1.10",
+    "moment": "^2.29.4",
+    "mongoose": "^6.6.7",
+    "request-promise-native": "^1.0.9",
+    "ultrax": "^2.0.5"
+  },
+  "description": ""
+}
